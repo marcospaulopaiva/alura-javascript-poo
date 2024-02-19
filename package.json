@@ -1,0 +1,21 @@
+{
+  "name": "alura-javascript-poo",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" style=\"background-color:#A36A07\">",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospaulopaiva/alura-javascript-poo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospaulopaiva/alura-javascript-poo/issues"
+  },
+  "homepage": "https://github.com/marcospaulopaiva/alura-javascript-poo#readme"
+}
